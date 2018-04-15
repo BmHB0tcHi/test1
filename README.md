@@ -1,2 +1,1 @@
-# test1
-test1
+a basic C++ program , used as a test
